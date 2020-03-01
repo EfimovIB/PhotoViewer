@@ -1,0 +1,4 @@
+*.user
+app/tmp
+Makefile
+.qmake.stash

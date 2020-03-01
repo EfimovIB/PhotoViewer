@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/ViewModule/AlbumsView.qml</file>
+        <file>qml/ViewModule/PhotosView.qml</file>
+        <file>qml/ViewModule/qmldir</file>
+        <file>qml/ToolsModule/qmldir</file>
+        <file>qml/ToolsModule/GlassFooter.qml</file>
+        <file>qml/ToolsModule/AlbumCover.qml</file>
+        <file>qml/ToolsModule/BigPicture.qml</file>
+        <file>qml/ToolsModule/ImageNotFoundCover.qml</file>
+    </qresource>
+</RCC>

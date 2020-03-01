@@ -1,0 +1,5 @@
+module ToolsModule
+BigPicture 1.0 BigPicture.qml
+GlassFooter 1.0 GlassFooter.qml
+AlbumCover 1.0 AlbumCover.qml
+ImageNotFoundCover 1.0 ImageNotFoundCover.qml
